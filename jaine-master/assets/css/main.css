@@ -35,8 +35,8 @@ body
 
     overflow-x: hidden;
 
-    color: #111;
-    background: #fff;
+    color: #909090;
+    background: #282828;
 
     -webkit-font-smoothing: antialiased;
 }
@@ -53,7 +53,11 @@ a
     font-family: 'Bellefair', serif;
     font-weight: normal;
 
-    color: #111;
+    color: #909090;
+    text-shadow:
+
+    
+    2px -2px rgb(2, 1, 1);
 }
 
 h1
@@ -153,12 +157,12 @@ a:hover
 
     border-width: 0 15rem 15rem 0;
     border-style: solid;
-    border-color: transparent #d80247 transparent transparent;
+    border-color: transparent #909090 transparent transparent;
 }
 
 .navigation-button p:hover:after
 {
-    border-color: transparent #111 transparent transparent;
+    border-color: transparent #909090 transparent transparent;
 }
 
 @media (max-width:700px)
@@ -235,7 +239,7 @@ a:hover
 
     opacity: 1;
     border-radius: 100%;
-    background-color: #d80f48;
+    background-color: #909090;
 }
 
 .preloader.hide-preloader .bounce
@@ -432,7 +436,7 @@ a:hover
 
     color: #fff;
     border-radius: 100px;
-    background: #d80f48;
+    background: #909090;
 }
 
 
@@ -460,8 +464,9 @@ a:hover
     margin: 0;
     padding: 0;
 
-    border: 2.5rem solid #fff;
+    border: 1.0rem solid #909090;
     background: #111;
+
 }
 
 .portfolio .item:before
@@ -535,7 +540,7 @@ a:hover
 
     border-width: 0 10rem 10rem 0;
     border-style: solid;
-    border-color: transparent #d80247 transparent transparent;
+    border-color: transparent #909090 transparent transparent;
 }
 
 .featherlight .featherlight-content
@@ -568,7 +573,7 @@ a:hover
 
 .featherlight .featherlight-close-icon:hover
 {
-    background: #d80f48;
+    background: #909090;
 }
 
 .featherlight-next,
@@ -616,7 +621,7 @@ a:hover
 .featherlight-next:hover,
 .featherlight-previous:hover
 {
-    background: #d80f48;
+    background: #909090;
 }
 
 .featherlight-previous
@@ -724,7 +729,7 @@ a:hover
 
     color: #fff;
     border-radius: 100%;
-    background: #d80f48;
+    background: #909090;
 }
 
 .footer .social-icons li:hover
@@ -796,5 +801,5 @@ a:hover
 
     color: #fff;
     border-radius: 100px;
-    background: #d80f49;
+    background: #909090;
 }
