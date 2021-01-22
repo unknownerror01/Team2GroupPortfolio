@@ -1,9 +1,3 @@
-<<<<<<< HEAD
-# Team 2 - Group Portfolio
-
-Welcome to Team 2's Portfolio Repository!
-
-=======
 # Team2GroupPortfolio
 
 Team Leader: Cenk Cafer
@@ -30,4 +24,3 @@ Footer and Links:
 
 
 Resume/Profile Pics:
->>>>>>> 6c73889f7d34d10025823abc30d32327f1301885
