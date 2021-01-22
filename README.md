@@ -5,11 +5,11 @@ Team Leader: Cenk Cafer
 Project lead: Jayzy Padilla
 
 Members: 
-Olviia-Nikol Andriievska,
-Shirley Ni,
-Jason Orr,
-Jayzy Padilla, 
-Simranjeet Singh
+<br>Olviia-Nikol Andriievska,
+<br>Shirley Ni,
+<br>Jason Orr,
+<br>Jayzy Padilla, 
+<br>Simranjeet Singh
 
 Tasks:
 
