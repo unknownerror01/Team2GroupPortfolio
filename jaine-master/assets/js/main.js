@@ -1,12 +1,12 @@
-jQuery(window).on('load', function() {   
+ jQuery(window).on('load', function() {   
     
     // HIDE PRELAODER
     $(".preloader").addClass("hide-preloader");
   
-});
+}); 
 
 
-jQuery(document).ready(function($) {
+/* jQuery(document).ready(function($) {
 	"use strict";
     
     // PORTFOLIO GALLERY 
@@ -17,4 +17,4 @@ jQuery(document).ready(function($) {
 		galleryFadeOut: 300    
 	});
     
-});
+}); */
