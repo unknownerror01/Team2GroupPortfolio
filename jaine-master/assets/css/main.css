@@ -439,6 +439,11 @@ a:hover
     background: #909090;
 }
 
+.hero .front-content h1 span:hover 
+{
+    background-color: #ffffff;
+    transition: 300ms;
+}
 
 
 /** 5. Portfolio
@@ -802,4 +807,9 @@ a:hover
     color: #fff;
     border-radius: 100px;
     background: #909090;
+}
+
+.about .contact span:hover {
+    background-color: #ffffff;
+    transition: 300ms;
 }
