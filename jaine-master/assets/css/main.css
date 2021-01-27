@@ -803,3 +803,41 @@ a:hover
     border-radius: 100px;
     background: #909090;
 }
+
+input[type = text], select{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    height: 50px;
+    width: 400px;
+    
+}
+
+#message{
+    padding: 5px;
+    margin: 5px;
+    border-radius: 20px;
+    height: 300px;
+    width: 400px;
+}
+
+.message{
+    height: 500px;
+    width: 400px;
+}
+
+input[type = submit], select{
+    padding: 5px;
+    margin: 10px;
+    border-radius: 100px;
+    height: 70px;
+    width: 525px;
+    justify-content: space-between; 
+    background: #909090;
+    color: white;
+    font-size: 40px;
+}
+
+input[type = submit]:hover, select{
+    background: white;
+}
