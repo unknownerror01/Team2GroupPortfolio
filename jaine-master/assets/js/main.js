@@ -6,7 +6,7 @@
 }); 
 
 
-/* jQuery(document).ready(function($) {
+ jQuery(document).ready(function($) {
 	"use strict";
     
     // PORTFOLIO GALLERY 
@@ -17,4 +17,4 @@
 		galleryFadeOut: 300    
 	});
     
-}); */
+}); 
