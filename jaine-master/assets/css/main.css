@@ -439,6 +439,11 @@ a:hover
     background: #909090;
 }
 
+.hero .front-content h1 span:hover 
+{
+    background-color: #ffffff;
+    transition: 300ms;
+}
 
 
 /** 5. Portfolio
@@ -840,4 +845,8 @@ input[type = submit], select{
 
 input[type = submit]:hover, select{
     background: white;
+}
+.about .contact span:hover {
+    background-color: #ffffff;
+    transition: 300ms;
 }
